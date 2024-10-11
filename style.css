@@ -257,7 +257,7 @@ section .title::after{
     background: none;
 }
 
-/* services section styling */
+
 .services, .teams{
     color:#fff;
     background: #111;
@@ -303,7 +303,7 @@ section .title::after{
     margin: 10px 0 7px 0;
 }
 
-/* skills section styling */
+
 
 .skills .title::after{
     content: "what i know";
@@ -378,9 +378,9 @@ section .title::after{
     width: 70%;
 }
 
-/* teams section styling */
+
 .teams .title::after{
-    content: "who with me";
+    content: "my projects";
 }
 .teams .carousel .card{
     background: #222;
